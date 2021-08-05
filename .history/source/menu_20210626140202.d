@@ -1,4 +1,0 @@
-module menu;
-
-import dlangui;
-

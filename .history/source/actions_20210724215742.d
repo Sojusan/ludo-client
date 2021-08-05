@@ -1,3 +1,0 @@
-module actions;
-
-import dlangui;
