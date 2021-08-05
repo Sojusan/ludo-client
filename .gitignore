@@ -1,5 +1,8 @@
 .dub
 docs.json
+.vscode
+.history
+.tours
 __dummy.html
 docs/
 /ludo-game-client
