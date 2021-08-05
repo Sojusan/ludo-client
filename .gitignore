@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ludo-game-client
+ludo-game-client.so
+ludo-game-client.dylib
+ludo-game-client.dll
+ludo-game-client.a
+ludo-game-client.lib
+ludo-game-client-test-*
+*.exe
+*.o
+*.obj
+*.lst

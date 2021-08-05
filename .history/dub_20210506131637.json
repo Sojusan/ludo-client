@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Rafał Grzegorczyk"
+	],
+	"copyright": "Copyright © 2021, Rafał Grzegorczyk",
+	"dependencies": {
+		"dlangui": "0.9.186"
+	},
+	"description": "Ludo Game Client application",
+	"license": "MIT",
+	"name": "ludo-game-client"
+}
